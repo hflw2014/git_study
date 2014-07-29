@@ -2,4 +2,5 @@
 int main()
 {
 	print("this is git test\n");
+	return 0;
 }
